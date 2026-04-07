@@ -40,8 +40,8 @@ const faqs = [
 const Index = () => (
   <>
     <Helmet>
-      <title>GangaClub – Login & Register </title>
-      <meta name="description" content="GangaClub is India's most trusted colour prediction platform. GangaClub login, register, claim free giftcode, and start winning real money. Join now with exciting signup bonuses!" />
+      <title>GangaClub – Login & Register</title>
+      <meta name="description" content="Gangaclub is an online Lottery platform in India offering various games, bonuses and a secure, smooth user experience across devices." />
       <meta name="keywords" content="gangaclub, gangaclub login, gangaclub register, gangaclub giftcode, gangaclub signup, gangaclub free giftcode" />
       <link rel="canonical" href="https://gangaclub.lovable.app/" />
       <script type="application/ld+json">{JSON.stringify({
