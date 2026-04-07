@@ -12,4 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
-sitemap:https://gangaclub12.in/sitemap.xml
+sitemap: https://gangaclub12.in/sitemap.xml
