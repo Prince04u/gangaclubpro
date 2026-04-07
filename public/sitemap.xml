@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://gangaclub12.in/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- MAIN NAV -->
+  <url>
+    <loc>https://www.gangaclub12.in/bonuses</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://gangaclub12.in/agent-program</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://gangaclub12.in/how-to-play</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- AUTH -->
+  <url>
+    <loc>https://gangaclub12.in/login</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://gangaclub12.in/register</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- EXTRA -->
+  <url>
+    <loc>https://www.gangaclub12.in/bonuses</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- INFO -->
+  <url>
+    <loc>https://gangaclub12.in/about</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://gangaclub12.in/contact</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- LEGAL -->
+  <url>
+    <loc>https://gangaclub12.in/privacy-policy</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://gangaclub12.in/terms</loc>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>
