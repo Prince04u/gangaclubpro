@@ -40,7 +40,7 @@ const faqs = [
 const Index = () => (
   <>
     <Helmet>
-      <title>GangaClub – India's #1 Colour Prediction Platform | Register & Win</title>
+      <title>GangaClub – Login & Register </title>
       <meta name="description" content="GangaClub is India's most trusted colour prediction platform. GangaClub login, register, claim free giftcode, and start winning real money. Join now with exciting signup bonuses!" />
       <meta name="keywords" content="gangaclub, gangaclub login, gangaclub register, gangaclub giftcode, gangaclub signup, gangaclub free giftcode" />
       <link rel="canonical" href="https://gangaclub.lovable.app/" />
