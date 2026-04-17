@@ -355,6 +355,32 @@ const Index = () => (
         </AnimatedSection>
       </div>
     </section>
+    {/* 🔗 SEO Interlink Section */}
+<section className="py-10 px-4">
+  <div className="mx-auto max-w-4xl text-center">
+    
+    <h2 className="text-2xl font-bold mb-4">
+      Explore Gaming Platforms Like Ganga Club India
+    </h2>
+
+    <p className="text-muted-foreground leading-relaxed mb-4">
+      If you are using 
+      <a href="https://gangaclub12.in/" target="_blank" className="text-primary underline"> Ganga game</a>, 
+      you can also explore platforms like 
+      <a href="https://gangaclub12.net/" target="_blank" className="text-primary underline"> Ganga Club</a> 
+      and 
+      <a href="https://13lgames.live/" target="_blank" className="text-primary underline"> 13L Game</a>. 
+      These platforms provide similar online gaming experiences, bonuses, and secure gameplay.
+    </p>
+
+    <div className="mt-4">
+      <a href="https://gangaclub12.in/" target="_blank" className="underline mx-2">Ganga game</a> |
+      <a href="https://gangaclub12.net/" target="_blank" className="underline mx-2">Ganga Club</a> |
+      <a href="https://13lgames.live/" target="_blank" className="underline mx-2">13L Game</a>
+    </div>
+
+  </div>
+</section>
   </>
 );
 
